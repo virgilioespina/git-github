@@ -2,11 +2,24 @@ Create Repo
 'git init'
 
 Sycning Repo
-add remote repo: 'git add origin <link>'
+add remote repo: git add master <link>
 pull files: 'git pull'
 push  your own changes in centrol repo: 'git push'
 
 Making Changes
 git status
-git commit -m "<message>"
-git add -A
+add a file: git add <file name>
+add all files: git add -A 
+
+commit a file: git commit -m "<message>"
+commit all files: git commit -a -m "<message>"
+
+git log 
+
+Parallel Development - Branching
+Branches are pointers to a specific commit
+Branches are of two types:
+	- Local Branches
+	- Remote-tracking branches
+
+
