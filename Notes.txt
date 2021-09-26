@@ -1,0 +1,12 @@
+Create Repo
+'git init'
+
+Sycning Repo
+add remote repo: 'git add origin <link>'
+pull files: 'git pull'
+push  your own changes in centrol repo: 'git push'
+
+Making Changes
+git status
+git commit -m "<message>"
+git add -A
