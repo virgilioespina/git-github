@@ -22,4 +22,9 @@ Branches are of two types:
 	- Local Branches
 	- Remote-tracking branches
 
+git checkout <name of the branch>
+merging to the main branch: git merge <branch name>   checkout to the main branch first
+cat <file name>
+
+
 
